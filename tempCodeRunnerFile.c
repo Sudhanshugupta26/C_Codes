@@ -1,2 +1,1 @@
-#include<stdio.h>
-void main(){
+c*6
